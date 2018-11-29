@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.3fb9ba7e.chunk.css",
-  "main.js": "/static/js/main.94dce1d0.chunk.js",
-  "main.js.map": "/static/js/main.94dce1d0.chunk.js.map",
+  "main.css": "/static/css/main.fbffae61.chunk.css",
+  "main.js": "/static/js/main.23bbfe19.chunk.js",
+  "main.js.map": "/static/js/main.23bbfe19.chunk.js.map",
   "static/css/1.98fca262.chunk.css": "/static/css/1.98fca262.chunk.css",
   "static/js/1.a85bb4ca.chunk.js": "/static/js/1.a85bb4ca.chunk.js",
   "static/js/1.a85bb4ca.chunk.js.map": "/static/js/1.a85bb4ca.chunk.js.map",
@@ -12,9 +12,9 @@
   "static/media/mockup-apimovie.png": "/static/media/mockup-apimovie.dd010e24.png",
   "static/media/App.css": "/static/media/tapiz-personal.65f405a8.png",
   "static/media/mockup-redsocial.png": "/static/media/mockup-redsocial.12a3413c.png",
+  "static/css/main.fbffae61.chunk.css.map": "/static/css/main.fbffae61.chunk.css.map",
   "static/css/1.98fca262.chunk.css.map": "/static/css/1.98fca262.chunk.css.map",
-  "static/css/main.3fb9ba7e.chunk.css.map": "/static/css/main.3fb9ba7e.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.15447cfc6c6fa1c41ca4eb4b94627314.js": "/precache-manifest.15447cfc6c6fa1c41ca4eb4b94627314.js",
+  "precache-manifest.aa3e54c1241a19a4b30b46eb98175281.js": "/precache-manifest.aa3e54c1241a19a4b30b46eb98175281.js",
   "service-worker.js": "/service-worker.js"
 }

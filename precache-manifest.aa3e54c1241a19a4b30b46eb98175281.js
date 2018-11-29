@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/raquel-glez.c4db9fcc.jpg"
   },
   {
-    "revision": "94dce1d09664bfb37593",
-    "url": "/static/css/main.3fb9ba7e.chunk.css"
+    "revision": "23bbfe194d0dcb72dc3b",
+    "url": "/static/css/main.fbffae61.chunk.css"
   },
   {
     "revision": "65f405a89197b39f8231e1f03d2520a9",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "94dce1d09664bfb37593",
-    "url": "/static/js/main.94dce1d0.chunk.js"
+    "revision": "23bbfe194d0dcb72dc3b",
+    "url": "/static/js/main.23bbfe19.chunk.js"
   },
   {
     "revision": "12a3413cb0efb06f69474bdd9e33ee53",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.98fca262.chunk.css"
   },
   {
-    "revision": "4b300707ef91299eb518193bb48196ce",
+    "revision": "df6397eb0d12d2e064c77ac8ab534e23",
     "url": "/index.html"
   }
 ];
