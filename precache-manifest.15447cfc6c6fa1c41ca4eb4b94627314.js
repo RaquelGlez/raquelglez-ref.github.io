@@ -4,24 +4,24 @@ self.__precacheManifest = [
     "url": "/static/media/raquel-glez.c4db9fcc.jpg"
   },
   {
-    "revision": "94fc8007c069e3146666",
-    "url": "/static/css/main.14306196.chunk.css"
+    "revision": "94dce1d09664bfb37593",
+    "url": "/static/css/main.3fb9ba7e.chunk.css"
   },
   {
     "revision": "65f405a89197b39f8231e1f03d2520a9",
     "url": "/static/media/tapiz-personal.65f405a8.png"
   },
   {
-    "revision": "017249bb74943940dcda",
-    "url": "/static/js/1.017249bb.chunk.js"
+    "revision": "a85bb4ca60481bed1be2",
+    "url": "/static/js/1.a85bb4ca.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "94fc8007c069e3146666",
-    "url": "/static/js/main.94fc8007.chunk.js"
+    "revision": "94dce1d09664bfb37593",
+    "url": "/static/js/main.94dce1d0.chunk.js"
   },
   {
     "revision": "12a3413cb0efb06f69474bdd9e33ee53",
@@ -36,11 +36,11 @@ self.__precacheManifest = [
     "url": "/static/media/mockup-apimovie.dd010e24.png"
   },
   {
-    "revision": "017249bb74943940dcda",
-    "url": "/static/css/1.d77457c7.chunk.css"
+    "revision": "a85bb4ca60481bed1be2",
+    "url": "/static/css/1.98fca262.chunk.css"
   },
   {
-    "revision": "85a2de5c7e9eaf75f53bfb48bfc5dbed",
+    "revision": "4b300707ef91299eb518193bb48196ce",
     "url": "/index.html"
   }
 ];
